@@ -22,9 +22,9 @@
     "url": "https://optimise-bp-clinician-uat.azurewebsites.net/",
     "icon": "https://favicons.githubusercontent.com/optimise-bp-clinician-uat.azurewebsites.net",
     "slug": "uat-clin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 557,
     "timeMonth": 591,
     "timeYear": 597,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-11": 0
+    }
   },
   {
     "name": "UAT Auth",
