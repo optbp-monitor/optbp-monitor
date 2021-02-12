@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 837,
-    "timeDay": 707,
+    "time": 836,
+    "timeDay": 792,
     "timeWeek": 834,
-    "timeMonth": 831,
-    "timeYear": 837,
+    "timeMonth": 829,
+    "timeYear": 836,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/optimise-bp-clinician-uat.azurewebsites.net",
     "slug": "uat-clin",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 591,
-    "timeDay": 449,
-    "timeWeek": 536,
-    "timeMonth": 585,
-    "timeYear": 591,
-    "dailyMinutesDown": {
-      "2021-02-11": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 589,
+    "timeDay": 454,
+    "timeWeek": 528,
+    "timeMonth": 583,
+    "timeYear": 589,
+    "dailyMinutesDown": {}
   },
   {
     "name": "UAT Auth",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 630,
-    "timeDay": 494,
-    "timeWeek": 576,
-    "timeMonth": 611,
-    "timeYear": 630,
+    "time": 627,
+    "timeDay": 535,
+    "timeWeek": 568,
+    "timeMonth": 612,
+    "timeYear": 627,
     "dailyMinutesDown": {}
   }
 ]
