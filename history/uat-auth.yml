@@ -1,7 +1,7 @@
 url: https://optimise-bp-auth-uat.azurewebsites.net/Account/LoginWithPasscode
 status: up
 code: 200
-responseTime: 679
-lastUpdated: 2021-03-31T23:09:39.339Z
+responseTime: 523
+lastUpdated: 2021-04-01T23:21:59.188Z
 startTime: Fri Jan 08 2021 11:50:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
