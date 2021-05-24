@@ -4,16 +4,20 @@ repo: optbp-monitor # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: UAT Pt
-    url: http://optimise-bp-patient-uat.azurewebsites.net/
-  - name: UAT Clin
-    url: https://optimise-bp-clinician-uat.azurewebsites.net/
-  - name: UAT Auth
-    url: https://optimise-bp-auth-uat.azurewebsites.net/Account/LoginWithPasscode
+  - name: Patient UI
+    url: https://pt.optbp.com/
+  - name: Clinician UI
+    url: https://clin.optbp.com/
+  - name: Auth Server
+    url: https://auth.optbp.com/Account/LoginWithPasscode
+  - name: API Server
+    url: https://auth.optbp.com/
+    expectedStatusCodes:
+      - 401
 
 status-website:
   cname: monitor.optbp.com
-  logoUrl: https://optimise-bp-auth-uat.azurewebsites.net/images/logo-icon.png
+  logoUrl: https://www.optbp.com/assets/images/logo.svg
   name: OptBP Monitor
   introTitle: "Welcome to the OptBP Status Page."
   introMessage: This status page uses **real-time** data from our servers. If our servers show no problems, but you are experiencing issues please contact support by visiting optbp.freshdesk.com (https://optbp.freshdesk.com).
