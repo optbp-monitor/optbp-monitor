@@ -11,7 +11,7 @@ sites:
   - name: Auth Server
     url: https://auth.optbp.com/Account/LoginWithPasscode
   - name: API Server
-    url: https://auth.optbp.com/
+    url: https://api.optbp.com/hangfire
     expectedStatusCodes:
       - 401
 
