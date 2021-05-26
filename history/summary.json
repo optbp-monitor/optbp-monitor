@@ -40,18 +40,20 @@
     "url": "https://auth.optbp.com/Account/LoginWithPasscode",
     "icon": "https://favicons.githubusercontent.com/auth.optbp.com",
     "slug": "auth-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 766,
     "timeDay": 734,
     "timeWeek": 766,
     "timeMonth": 766,
     "timeYear": 766,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-26": 0
+    }
   },
   {
     "name": "API Server",
