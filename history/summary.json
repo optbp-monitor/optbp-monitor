@@ -22,9 +22,9 @@
     "url": "https://clin.optbp.com/",
     "icon": "https://favicons.githubusercontent.com/clin.optbp.com",
     "slug": "clinician-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 746,
     "timeMonth": 746,
     "timeYear": 746,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-28": 0
+    }
   },
   {
     "name": "Auth Server",
@@ -41,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/auth.optbp.com",
     "slug": "auth-server",
     "status": "up",
-    "uptime": "98.57%",
+    "uptime": "98.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "98.57%",
-    "uptimeYear": "98.57%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "98.66%",
     "time": 737,
     "timeDay": 842,
     "timeWeek": 737,
