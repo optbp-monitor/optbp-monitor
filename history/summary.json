@@ -4,10 +4,10 @@
     "url": "https://pt.optbp.com/",
     "icon": "https://favicons.githubusercontent.com/pt.optbp.com",
     "slug": "patient-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 768,
@@ -16,6 +16,7 @@
     "timeMonth": 727,
     "timeYear": 768,
     "dailyMinutesDown": {
+      "2021-11-25": 1,
       "2021-05-29": 57
     }
   },
@@ -46,7 +47,7 @@
     "slug": "auth-server",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "96.32%",
+    "uptimeDay": "98.29%",
     "uptimeWeek": "99.47%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.83%",
