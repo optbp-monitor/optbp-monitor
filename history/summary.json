@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 751,
-    "timeDay": 448,
-    "timeWeek": 702,
-    "timeMonth": 743,
+    "timeDay": 667,
+    "timeWeek": 686,
+    "timeMonth": 727,
     "timeYear": 727,
     "dailyMinutesDown": {
       "2021-12-07": 35,
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 737,
-    "timeDay": 589,
-    "timeWeek": 726,
-    "timeMonth": 763,
-    "timeYear": 738,
+    "timeDay": 721,
+    "timeWeek": 703,
+    "timeMonth": 755,
+    "timeYear": 739,
     "dailyMinutesDown": {
       "2022-03-25": 49
     }
@@ -46,15 +46,15 @@
     "icon": "https://favicons.githubusercontent.com/auth.optbp.com",
     "slug": "auth-server",
     "status": "up",
-    "uptime": "93.07%",
+    "uptime": "93.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.55%",
-    "uptimeMonth": "79.65%",
+    "uptimeMonth": "82.89%",
     "uptimeYear": "92.95%",
     "time": 809,
-    "timeDay": 437,
-    "timeWeek": 660,
-    "timeMonth": 1589,
+    "timeDay": 712,
+    "timeWeek": 641,
+    "timeMonth": 1576,
     "timeYear": 812,
     "dailyMinutesDown": {
       "2022-05-28": 45,
@@ -108,16 +108,16 @@
     "icon": "https://favicons.githubusercontent.com/api.optbp.com",
     "slug": "api-server",
     "status": "up",
-    "uptime": "93.82%",
+    "uptime": "93.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.72%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "93.69%",
     "time": 900,
-    "timeDay": 439,
-    "timeWeek": 2620,
-    "timeMonth": 2422,
-    "timeYear": 906,
+    "timeDay": 787,
+    "timeWeek": 2615,
+    "timeMonth": 2418,
+    "timeYear": 907,
     "dailyMinutesDown": {
       "2022-05-30": 129,
       "2022-05-08": 28,
@@ -160,8 +160,7 @@
       "2021-10-03": 30,
       "2021-08-25": 39,
       "2021-08-01": 188,
-      "2021-06-13": 59,
-      "2021-06-02": 211
+      "2021-06-13": 59
     }
   }
 ]
