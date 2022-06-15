@@ -4,9 +4,9 @@
     "url": "https://pt.optbp.com/",
     "icon": "https://favicons.githubusercontent.com/pt.optbp.com",
     "slug": "patient-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 769,
     "timeYear": 728,
     "dailyMinutesDown": {
+      "2022-06-15": 0,
       "2021-12-07": 35,
       "2021-11-25": 37
     }
@@ -46,7 +47,7 @@
     "icon": "https://favicons.githubusercontent.com/auth.optbp.com",
     "slug": "auth-server",
     "status": "up",
-    "uptime": "93.31%",
+    "uptime": "93.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
@@ -108,7 +109,7 @@
     "icon": "https://favicons.githubusercontent.com/api.optbp.com",
     "slug": "api-server",
     "status": "up",
-    "uptime": "94.04%",
+    "uptime": "94.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
