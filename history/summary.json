@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 739,
-    "timeDay": 806,
-    "timeWeek": 733,
-    "timeMonth": 636,
+    "timeDay": 693,
+    "timeWeek": 633,
+    "timeMonth": 643,
     "timeYear": 743,
     "dailyMinutesDown": {
       "2022-06-30": 15,
@@ -36,9 +36,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 727,
-    "timeDay": 664,
-    "timeWeek": 705,
-    "timeMonth": 619,
+    "timeDay": 750,
+    "timeWeek": 622,
+    "timeMonth": 627,
     "timeYear": 721,
     "dailyMinutesDown": {
       "2022-08-14": 54,
@@ -54,16 +54,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.optbp.com.ico",
     "slug": "auth-server",
     "status": "up",
-    "uptime": "94.62%",
+    "uptime": "94.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.50%",
     "uptimeMonth": "98.13%",
-    "uptimeYear": "92.75%",
+    "uptimeYear": "92.76%",
     "time": 953,
-    "timeDay": 713,
-    "timeWeek": 2318,
-    "timeMonth": 2566,
-    "timeYear": 1051,
+    "timeDay": 752,
+    "timeWeek": 2247,
+    "timeMonth": 2574,
+    "timeYear": 1053,
     "dailyMinutesDown": {
       "2022-09-27": 57,
       "2022-09-26": 94,
@@ -119,8 +119,7 @@
       "2022-01-08": 55,
       "2021-12-27": 63,
       "2021-11-24": 53,
-      "2021-11-11": 53,
-      "2021-10-03": 50
+      "2021-11-11": 53
     }
   },
   {
@@ -129,15 +128,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.optbp.com.ico",
     "slug": "api-server",
     "status": "up",
-    "uptime": "95.21%",
+    "uptime": "95.22%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.54%",
+    "uptimeWeek": "98.79%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "93.60%",
     "time": 1022,
-    "timeDay": 689,
-    "timeWeek": 2390,
-    "timeMonth": 1033,
+    "timeDay": 707,
+    "timeWeek": 2307,
+    "timeMonth": 1041,
     "timeYear": 1078,
     "dailyMinutesDown": {
       "2022-09-26": 147,
@@ -185,8 +184,7 @@
       "2021-11-28": 1,
       "2021-11-27": 23,
       "2021-11-06": 40,
-      "2021-11-01": 54,
-      "2021-10-03": 30
+      "2021-11-01": 54
     }
   }
 ]
