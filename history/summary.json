@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 725,
-    "timeDay": 739,
-    "timeWeek": 565,
-    "timeMonth": 745,
-    "timeYear": 725,
+    "time": 724,
+    "timeDay": 672,
+    "timeWeek": 582,
+    "timeMonth": 751,
+    "timeYear": 724,
     "dailyMinutesDown": {
       "2022-06-30": 15,
       "2022-06-29": 21,
@@ -34,9 +34,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.96%",
     "time": 698,
-    "timeDay": 745,
-    "timeWeek": 575,
-    "timeMonth": 588,
+    "timeDay": 688,
+    "timeWeek": 590,
+    "timeMonth": 596,
     "timeYear": 689,
     "dailyMinutesDown": {
       "2023-01-23": 63,
@@ -53,15 +53,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.optbp.com.ico",
     "slug": "auth-server",
     "status": "up",
-    "uptime": "95.06%",
+    "uptime": "95.07%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.45%",
+    "uptimeWeek": "75.78%",
     "uptimeMonth": "89.00%",
-    "uptimeYear": "91.81%",
-    "time": 985,
-    "timeDay": 696,
-    "timeWeek": 564,
-    "timeMonth": 563,
+    "uptimeYear": "91.83%",
+    "time": 984,
+    "timeDay": 584,
+    "timeWeek": 553,
+    "timeMonth": 569,
     "timeYear": 1090,
     "dailyMinutesDown": {
       "2023-01-23": 1109,
@@ -123,8 +123,7 @@
       "2022-04-13": 1440,
       "2022-04-12": 1381,
       "2022-03-26": 76,
-      "2022-02-24": 55,
-      "2022-01-29": 49
+      "2022-02-24": 55
     }
   },
   {
@@ -133,16 +132,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.optbp.com.ico",
     "slug": "api-server",
     "status": "up",
-    "uptime": "95.55%",
+    "uptime": "95.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.45%",
+    "uptimeWeek": "75.78%",
     "uptimeMonth": "89.00%",
     "uptimeYear": "98.76%",
     "time": 1020,
-    "timeDay": 771,
-    "timeWeek": 551,
-    "timeMonth": 1057,
-    "timeYear": 1171,
+    "timeDay": 631,
+    "timeWeek": 546,
+    "timeMonth": 1064,
+    "timeYear": 1170,
     "dailyMinutesDown": {
       "2023-01-23": 1109,
       "2023-01-22": 1440,
@@ -165,8 +164,7 @@
       "2022-04-04": 36,
       "2022-04-02": 53,
       "2022-03-14": 65,
-      "2022-02-27": 50,
-      "2022-01-29": 47
+      "2022-02-27": 50
     }
   }
 ]
