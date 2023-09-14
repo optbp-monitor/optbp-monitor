@@ -40,18 +40,20 @@
     "url": "https://auth.optbp.com/Account/LoginWithPasscode",
     "icon": "https://icons.duckduckgo.com/ip3/auth.optbp.com.ico",
     "slug": "auth-server",
-    "status": "up",
-    "uptime": "96.90%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.91%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 921,
-    "timeDay": 384,
-    "timeWeek": 1501,
-    "timeMonth": 780,
-    "timeYear": 848,
-    "dailyMinutesDown": {}
+    "time": 874,
+    "timeDay": 237,
+    "timeWeek": 1324,
+    "timeMonth": 760,
+    "timeYear": 772,
+    "dailyMinutesDown": {
+      "2023-09-14": 0
+    }
   },
   {
     "name": "API Server",
