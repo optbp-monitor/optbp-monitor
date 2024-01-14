@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 610,
-    "timeDay": 468,
-    "timeWeek": 494,
-    "timeMonth": 576,
+    "timeDay": 686,
+    "timeWeek": 525,
+    "timeMonth": 580,
     "timeYear": 588,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 593,
-    "timeDay": 467,
-    "timeWeek": 468,
-    "timeMonth": 541,
-    "timeYear": 580,
+    "timeDay": 674,
+    "timeWeek": 508,
+    "timeMonth": 546,
+    "timeYear": 579,
     "dailyMinutesDown": {}
   },
   {
@@ -40,18 +40,20 @@
     "url": "https://auth.optbp.com/Account/LoginWithPasscode",
     "icon": "https://icons.duckduckgo.com/ip3/auth.optbp.com.ico",
     "slug": "auth-server",
-    "status": "up",
-    "uptime": "97.29%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.30%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 676,
-    "timeDay": 368,
-    "timeWeek": 455,
-    "timeMonth": 515,
+    "timeDay": 657,
+    "timeWeek": 488,
+    "timeMonth": 521,
     "timeYear": 613,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-14": 0
+    }
   },
   {
     "name": "API Server",
@@ -65,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 744,
-    "timeDay": 447,
-    "timeWeek": 500,
-    "timeMonth": 547,
-    "timeYear": 670,
+    "timeDay": 663,
+    "timeWeek": 536,
+    "timeMonth": 552,
+    "timeYear": 669,
     "dailyMinutesDown": {}
   }
 ]
