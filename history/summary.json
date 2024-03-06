@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 595,
-    "timeDay": 470,
-    "timeWeek": 470,
-    "timeMonth": 487,
-    "timeYear": 575,
+    "timeDay": 698,
+    "timeWeek": 487,
+    "timeMonth": 491,
+    "timeYear": 573,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 578,
-    "timeDay": 462,
-    "timeWeek": 451,
-    "timeMonth": 471,
-    "timeYear": 566,
+    "timeDay": 651,
+    "timeWeek": 474,
+    "timeMonth": 479,
+    "timeYear": 565,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 600,
-    "timeDay": 418,
-    "timeWeek": 438,
-    "timeMonth": 470,
-    "timeYear": 601,
+    "timeDay": 688,
+    "timeWeek": 460,
+    "timeMonth": 473,
+    "timeYear": 599,
     "dailyMinutesDown": {}
   },
   {
@@ -59,16 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.optbp.com.ico",
     "slug": "api-server",
     "status": "up",
-    "uptime": "97.67%",
+    "uptime": "97.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 676,
-    "timeDay": 505,
-    "timeWeek": 464,
-    "timeMonth": 486,
-    "timeYear": 617,
+    "timeDay": 720,
+    "timeWeek": 484,
+    "timeMonth": 493,
+    "timeYear": 616,
     "dailyMinutesDown": {}
   }
 ]
