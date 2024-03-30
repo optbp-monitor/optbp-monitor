@@ -58,19 +58,19 @@
     "url": "https://api.optbp.com/api/practice/additionaldetails/",
     "icon": "https://icons.duckduckgo.com/ip3/api.optbp.com.ico",
     "slug": "api-server",
-    "status": "down",
+    "status": "up",
     "uptime": "97.73%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 635,
-    "timeDay": 469,
-    "timeWeek": 529,
-    "timeMonth": 502,
-    "timeYear": 612,
+    "timeDay": 421,
+    "timeWeek": 510,
+    "timeMonth": 498,
+    "timeYear": 611,
     "dailyMinutesDown": {
-      "2024-03-30": 0
+      "2024-03-30": 8
     }
   }
 ]
