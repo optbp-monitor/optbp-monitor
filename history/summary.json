@@ -40,35 +40,39 @@
     "url": "https://auth.optbp.com/Account/LoginWithPasscode",
     "icon": "https://icons.duckduckgo.com/ip3/auth.optbp.com.ico",
     "slug": "auth-server",
-    "status": "up",
+    "status": "down",
     "uptime": "97.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 593,
-    "timeDay": 700,
-    "timeWeek": 583,
-    "timeMonth": 530,
-    "timeYear": 598,
-    "dailyMinutesDown": {}
+    "time": 626,
+    "timeDay": 8980,
+    "timeWeek": 2668,
+    "timeMonth": 1053,
+    "timeYear": 642,
+    "dailyMinutesDown": {
+      "2024-04-10": 1
+    }
   },
   {
     "name": "API Server",
     "url": "https://api.optbp.com/api/practice/additionaldetails/",
     "icon": "https://icons.duckduckgo.com/ip3/api.optbp.com.ico",
     "slug": "api-server",
-    "status": "up",
-    "uptime": "97.75%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.76%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 729,
-    "timeWeek": 588,
-    "timeMonth": 538,
-    "timeYear": 617,
-    "dailyMinutesDown": {}
+    "time": 689,
+    "timeDay": 13747,
+    "timeWeek": 3860,
+    "timeMonth": 1332,
+    "timeYear": 687,
+    "dailyMinutesDown": {
+      "2024-04-10": 0
+    }
   }
 ]
