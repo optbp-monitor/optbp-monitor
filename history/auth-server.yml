@@ -1,7 +1,7 @@
 url: https://auth.optbp.com/Account/LoginWithPasscode
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-10T22:00:04.309Z
+status: up
+code: 200
+responseTime: 531
+lastUpdated: 2024-05-10T22:17:39.040Z
 startTime: 2021-05-24T17:10:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
