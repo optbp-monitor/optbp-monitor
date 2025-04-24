@@ -22,18 +22,20 @@
     "url": "https://clin.optbp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/clin.optbp.com.ico",
     "slug": "clinician-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 562,
-    "timeDay": 467,
-    "timeWeek": 513,
-    "timeMonth": 551,
-    "timeYear": 575,
-    "dailyMinutesDown": {}
+    "time": 600,
+    "timeDay": 10015,
+    "timeWeek": 2895,
+    "timeMonth": 1145,
+    "timeYear": 627,
+    "dailyMinutesDown": {
+      "2025-04-24": 0
+    }
   },
   {
     "name": "Auth Server",
