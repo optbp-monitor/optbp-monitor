@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 643,
-    "timeDay": 506,
+    "timeDay": 524,
     "timeWeek": 549,
     "timeMonth": 567,
     "timeYear": 661,
@@ -60,17 +60,19 @@
     "url": "https://api.optbp.com/api/practice/additionaldetails/",
     "icon": "https://icons.duckduckgo.com/ip3/api.optbp.com.ico",
     "slug": "api-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.47%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 610,
-    "timeDay": 503,
-    "timeWeek": 549,
-    "timeMonth": 557,
+    "timeDay": 551,
+    "timeWeek": 555,
+    "timeMonth": 558,
     "timeYear": 606,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-02": 0
+    }
   }
 ]
