@@ -4,19 +4,19 @@
     "url": "https://pt.optbp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pt.optbp.com.ico",
     "slug": "patient-ui",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "93.81%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.98%",
     "time": 599,
-    "timeDay": 433,
-    "timeWeek": 531,
-    "timeMonth": 582,
+    "timeDay": 451,
+    "timeWeek": 526,
+    "timeMonth": 579,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 89
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/clin.optbp.com.ico",
     "slug": "clinician-ui",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "94.92%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "88.73%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.97%",
     "time": 615,
     "timeDay": 365,
     "timeWeek": 512,
     "timeMonth": 572,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2025-11-18": 73
+      "2025-11-18": 162
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://auth.optbp.com/Account/LoginWithPasscode",
     "icon": "https://icons.duckduckgo.com/ip3/auth.optbp.com.ico",
     "slug": "auth-server",
-    "status": "down",
-    "uptime": "98.36%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "98.35%",
+    "uptimeDay": "93.81%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.98%",
     "time": 653,
-    "timeDay": 380,
-    "timeWeek": 528,
-    "timeMonth": 706,
+    "timeDay": 400,
+    "timeWeek": 518,
+    "timeMonth": 698,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 89,
       "2025-05-21": 21
     }
   },
@@ -65,19 +65,19 @@
     "url": "https://api.optbp.com/api/practice/additionaldetails/",
     "icon": "https://icons.duckduckgo.com/ip3/api.optbp.com.ico",
     "slug": "api-server",
-    "status": "down",
+    "status": "up",
     "uptime": "98.51%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "93.81%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.98%",
     "time": 609,
-    "timeDay": 503,
-    "timeWeek": 562,
-    "timeMonth": 601,
-    "timeYear": 581,
+    "timeDay": 501,
+    "timeWeek": 556,
+    "timeMonth": 598,
+    "timeYear": 580,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 89
     }
   }
 ]
