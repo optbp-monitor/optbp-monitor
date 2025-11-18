@@ -4,18 +4,20 @@
     "url": "https://pt.optbp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pt.optbp.com.ico",
     "slug": "patient-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 600,
-    "timeDay": 742,
-    "timeWeek": 589,
-    "timeMonth": 597,
-    "timeYear": 606,
-    "dailyMinutesDown": {}
+    "time": 599,
+    "timeDay": 433,
+    "timeWeek": 531,
+    "timeMonth": 582,
+    "timeYear": 605,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Clinician UI",
@@ -24,17 +26,17 @@
     "slug": "clinician-ui",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "94.92%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.99%",
     "time": 615,
     "timeDay": 365,
     "timeWeek": 512,
     "timeMonth": 572,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 73
     }
   },
   {
@@ -42,18 +44,19 @@
     "url": "https://auth.optbp.com/Account/LoginWithPasscode",
     "icon": "https://icons.duckduckgo.com/ip3/auth.optbp.com.ico",
     "slug": "auth-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.36%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 654,
-    "timeDay": 637,
-    "timeWeek": 586,
-    "timeMonth": 725,
-    "timeYear": 672,
+    "time": 653,
+    "timeDay": 380,
+    "timeWeek": 528,
+    "timeMonth": 706,
+    "timeYear": 670,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-05-21": 21
     }
   },
@@ -62,17 +65,19 @@
     "url": "https://api.optbp.com/api/practice/additionaldetails/",
     "icon": "https://icons.duckduckgo.com/ip3/api.optbp.com.ico",
     "slug": "api-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.51%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 610,
-    "timeDay": 655,
-    "timeWeek": 620,
-    "timeMonth": 618,
-    "timeYear": 582,
-    "dailyMinutesDown": {}
+    "time": 609,
+    "timeDay": 503,
+    "timeWeek": 562,
+    "timeMonth": 601,
+    "timeYear": 581,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
