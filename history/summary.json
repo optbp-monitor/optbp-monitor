@@ -11,9 +11,9 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
     "time": 601,
-    "timeDay": 284,
-    "timeWeek": 572,
-    "timeMonth": 589,
+    "timeDay": 463,
+    "timeWeek": 534,
+    "timeMonth": 582,
     "timeYear": 605,
     "dailyMinutesDown": {
       "2025-11-18": 89
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.97%",
     "time": 619,
-    "timeDay": 439,
-    "timeWeek": 575,
-    "timeMonth": 617,
+    "timeDay": 482,
+    "timeWeek": 541,
+    "timeMonth": 611,
     "timeYear": 637,
     "dailyMinutesDown": {
       "2025-11-18": 177
@@ -46,17 +46,16 @@
     "slug": "auth-server",
     "status": "up",
     "uptime": "98.37%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.97%",
     "time": 656,
-    "timeDay": 485,
-    "timeWeek": 617,
-    "timeMonth": 667,
-    "timeYear": 675,
+    "timeDay": 501,
+    "timeWeek": 584,
+    "timeMonth": 661,
+    "timeYear": 676,
     "dailyMinutesDown": {
-      "2025-12-07": 9,
       "2025-11-18": 119,
       "2025-05-21": 21
     }
@@ -73,9 +72,9 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
     "time": 613,
-    "timeDay": 427,
-    "timeWeek": 597,
-    "timeMonth": 643,
+    "timeDay": 399,
+    "timeWeek": 561,
+    "timeMonth": 635,
     "timeYear": 586,
     "dailyMinutesDown": {
       "2025-11-18": 119
