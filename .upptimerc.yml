@@ -12,6 +12,9 @@ sites:
     url: https://auth.optbp.com/Account/LoginWithPasscode
   - name: API Server
     url: https://api.optbp.com/api/practice/additionaldetails/
+    expectedStatusCodes:
+     - 200
+     - 400   # treat 400 response as up
 
 status-website:
   cname: monitor.optbp.com
