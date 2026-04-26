@@ -47,9 +47,9 @@
     "url": "https://auth.optbp.com/Account/LoginWithPasscode",
     "icon": "https://icons.duckduckgo.com/ip3/auth.optbp.com.ico",
     "slug": "auth-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.50%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -59,6 +59,7 @@
     "timeMonth": 576,
     "timeYear": 608,
     "dailyMinutesDown": {
+      "2026-04-26": 0,
       "2025-11-18": 119,
       "2025-05-21": 21
     }
