@@ -4,11 +4,11 @@
     "url": "https://pt.optbp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pt.optbp.com.ico",
     "slug": "patient-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.97%",
     "time": 606,
     "timeDay": 491,
@@ -16,6 +16,7 @@
     "timeMonth": 595,
     "timeYear": 601,
     "dailyMinutesDown": {
+      "2026-04-30": 2,
       "2026-04-21": 58,
       "2025-11-18": 89
     }
@@ -69,9 +70,9 @@
     "url": "https://api.optbp.com/api/practice/additionaldetails/",
     "icon": "https://icons.duckduckgo.com/ip3/api.optbp.com.ico",
     "slug": "api-server",
-    "status": "up",
+    "status": "down",
     "uptime": "96.01%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "86.98%",
@@ -81,6 +82,7 @@
     "timeMonth": 583,
     "timeYear": 606,
     "dailyMinutesDown": {
+      "2026-04-30": 0,
       "2026-04-26": 48,
       "2026-02-03": 49,
       "2026-02-02": 1440,
